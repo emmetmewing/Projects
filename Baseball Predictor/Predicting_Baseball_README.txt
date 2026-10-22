@@ -10,4 +10,4 @@ Results: The results are listed in the notebook provided.
 
 Data Sources: Data was gathered using MLB statistics from the MLB-StatsAPI and Baseball Savant. CSV files with he data are not included in the repository, but information regarding the csvs and how they are used is explained in the notebook. To run this, data must be acquired from the appropriate sources.
 
-Notes: This project served as an educational project in order for me to gain more experience with data analysis and add it to a code portfolio to showcase my skills.
+Notes: This project served as an educational project in order for me to gain more experience with generating features and building machine learning models.
